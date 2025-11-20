@@ -29,6 +29,9 @@ Kilimanjaro Transporters is a professional transport services company based in T
 
 ## Installation and Setup
 
-1. **Download or clone the repository:**
+1. **Clone the repository:**
+
+## Deployment
+https://kilimanjarotransporters.vercel.app/
 
    
